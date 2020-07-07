@@ -1,0 +1,4 @@
++Start Reicast
+dc_boot
+dc_flash
+Marvel vs Capcom 2
