@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.2",
+    "html-minifier": "^4.0.0",
     "xml2js": "^0.4.23"
   }
 }
